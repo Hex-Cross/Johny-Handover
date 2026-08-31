@@ -16,6 +16,10 @@ user-invocable: true
 # hard-routed "to be checked", so a developer asking what is missing does not fire a write path and a
 # reviewer asking for the column does not fire this one.
 triggers:
+  - johny-handover
+  - johny handover
+  - johny handover sd
+  - johny
   - self-check
   - self-check sd
   - what is missing on sd

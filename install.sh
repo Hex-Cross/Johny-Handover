@@ -26,4 +26,4 @@ cp    "$SRC/VERSION" "$STAMP"
 
 echo "installed version $(cat "$SRC/VERSION")"
 echo
-echo "Set the seven variables from README.md in your shell profile, then run:  self-check SD-1234"
+echo "Set the variables from README.md in your shell profile, then run:  Johny-Handover SD-1234"

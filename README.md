@@ -8,8 +8,8 @@ It reads. It never writes. No comment, no status change, no pull request, no dep
 ## Install
 
 ```
-git clone https://github.com/Hex-Cross/handover-selfcheck.git
-cd handover-selfcheck
+git clone https://github.com/Hex-Cross/Johny-Handover.git
+cd Johny-Handover
 ./install.sh
 ```
 
@@ -40,10 +40,10 @@ fails, check the connection before you suspect the token.
 ## Run it
 
 ```
-self-check SD-1234
+Johny-Handover SD-1234
 ```
 
-Other phrasings that start it: "what is missing on SD-1234", "check my implementation",
+Other phrasings that start it: "self-check SD-1234", "what is missing on SD-1234", "check my implementation",
 "pre-flight SD-1234", "am I ready to hand this in".
 
 You get one report. Every unmet item is tagged:
